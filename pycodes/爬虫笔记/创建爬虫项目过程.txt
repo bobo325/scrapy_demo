@@ -1,0 +1,13 @@
+1，pip install lxml
+
+2, pip install C:\Users\chenbo\Desktop\pycodes\爬虫笔记\version_package\lz4-2.1.0-cp35-cp35m-win_amd64.whl
+
+3, pip install C:\Users\chenbo\Desktop\pycodes\爬虫笔记\version_package\Twisted-18.7.0-cp35-cp35m-win_amd64.whl
+
+4, pip install Scrapy
+
+创建后会生成一个和文件夹同名的项目名和一个cfg文件
+
+5， 运行爬虫会报错
+
+6，pip3 install pywin32
